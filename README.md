@@ -41,14 +41,14 @@ No mundo de hoje, não podemos pensar em montar um projeto e não ter um site.
 
 Sim, é possível começar a vender online sem pagar nada por isso.
 
-* [Loja Integrada](http://lojaintegrada.com.br) - Gratis até 50 produtos e integrado com os principais meios de pagamento.
+* [Loja Integrada](http://lojaintegrada.com.br) - Grátis até 50 produtos e integrado com os principais meios de pagamento.
 
 ### Relatórios
 
 Precisamos descobrir quais das nossas páginas são mais acessadas ou aquelas que fazem nossos clientes desistirem de nossa
 ferramenta para estarmos sempre aprimorando.
 
-* [Google Analytics](https://analytics.google.com) - Monitore as visitas com relatorios avançados e gratuitos.
+* [Google Analytics](https://analytics.google.com) - Monitore as visitas com relatórios avançados e gratuitos.
 * [SmartLook](https://www.getsmartlook.com/) - Captura tudo que seu usuário faz no site, cada movimento de mouse, click e
 dado digitado. Grátis
 * [Inspeclet](https://www.inspectlet.com) - Captura tudo que seu visitante faz. Grátis até 100 visitas ou 1000 pageviews.
@@ -61,14 +61,14 @@ Enviar mala-direta, newsletter ou lista de e-mails para seus clientes pode sufoc
 precisamos contratar um serviço terceiro para dar conta destes envios, segue uma lista de ferramentas para ajudar 
 sem custo.
 
-* [Beefree](https://beefree.io/) - Editor online para emails reponsivos.
+* [Beefree](https://beefree.io/) - Editor online para e-mails reponsivos.
 * [Mailgun](https://www.mailgun.com/) - Grátis até 10mil e-mails/mês.
 * [Mandrill](https://www.mandrill.com/) - Grátis até 12mil e-mails/mês.
 * [Sendgrid](https://sendgrid.com/) - Grátis até 12mil e-mails/mês.
 * [Sendinblue](https://pt.sendinblue.com/) - Grátis até 9mil e-mails/mês.
 * [Mailchimp](http://mailchimp.com/) - Grátis até 12mil e-mails/mês para até 2mil clientes.
 
-### Capturar R-mails
+### Capturar E-mails
 
 Nunca compre listas de mala-direta ou e-mails, você pode coletar a sua e ter uma conversão consequentemente mais alta.
 A idéia geral é abrir uma janela para o visitante do site para que ele preencha seu e-mail.
@@ -104,9 +104,9 @@ visita, quanto então dentro de alguma area protegida do site.
 
 ### Comunicação
 
-É de extrema importancia separar conversas particulares do nosso trabalho, por isso, recomendamos com todas as forças
-a não utilização de ferramenas como whatsapp ou facebook para comunicação profissional entre os membros da equipe.
-Existem diversas ferramentas gratuítas e que se integram com várias outras que podem ajudar.
+É de extrema importância separar conversas particulares do nosso trabalho, por isso, recomendamos com todas as forças
+a não utilização de ferramentas como whatsapp ou facebook para comunicação profissional entre os membros da equipe.
+Existem diversas ferramentas gratuitas e que se integram com várias outras que podem ajudar.
 
 * [Slack](http://slack.com) - Aplicativo de mensagem feito para equipes
 
@@ -115,14 +115,14 @@ Existem diversas ferramentas gratuítas e que se integram com várias outras que
 Controlar o que cada membro da equipe esta fazendo é fundamental para manter a organização e cumprir prazos. Centralizar
 conversas e problemas de cada tarefa ajuda a organizar e aprimorar sua ideia.
 
-* [Trello](http://trello.com) - Crie quadros de tarefas e compartilhe com sua equipe. Totalmente customizavel e ingregrado.
+* [Trello](http://trello.com) - Crie quadros de tarefas e compartilhe com sua equipe. Totalmente customizável e integrado.
 
 ## Desenvolvimento
 
 ### Controle de Código
 
-Se você for contratar um programador, designer ou qualquer pessoa gue gere um código para você, é de extrema importancia
-que você tenha sempre este código armazenado. Se uma lista de ferramentas que ajuda a armazenar diretamente na núvem e 
+Se você for contratar um programador, designer ou que gere um código para você, é de extrema importância
+que você tenha sempre este código armazenado. Se uma lista de ferramentas que ajuda a armazenar diretamente na nuvem e 
 ainda controlar todas as modificações ao longo do tempo.
 
 * [Bitbucket](https://bitbucket.com/) - Projetos privados ilimitados mas com limite para até 5 desenvolvedores.
@@ -132,7 +132,8 @@ ainda controlar todas as modificações ao longo do tempo.
 
 Sites precisam ser rápidos, e o ideal que estejam replicados pelo mundo (CDN) para caso um cliente esteja acessando de
 outro pais, ele tenha o mesmo desempenho como se estivesse acessando do Brasil, ou, podemos hospedar nossos sistemas 
-em outros paises com preços competitivos mas dar a velocidade para o usuário como se estivesse no Brasil.
+em outros países com preços competitivos mas dar a velocidade para o usuário como se estivesse no Brasil.
 
-* [CloudFlare](https://www.cloudflare.com/) - Alem de CDN, oferece recursos como: proteção a ataques de hackers, a
-a possibilidade de cachear partes do site e criptografia (https) gratuita, ganhando mais pontos na busca do google. 
+* [CloudFlare](https://www.cloudflare.com/) - Além de CDN, oferece recursos como: proteção a ataques de hackers,
+a possibilidade de cachear partes do site e criptografia (https) gratuita, ganhando mais pontos na busca do Google. 
+
