@@ -5,7 +5,9 @@
 Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas ferramentas grátis
 
 * [Receitas Prontas](#receitas-prontas)
-* [Criar um Logo](#criar-um-logo)
+* [Sua Marca](#sua-marca)
+  * [Criar Logo](#criar-um-logo)
+  * [Escolher cores](#escolher-cores)
 * [Estar Online](#estar-oniline)
   * [Hospedagem](#Hospedagem)
   * [E-commerce](#e-commerce)
@@ -38,7 +40,13 @@ Estas listas secundárias são focadas em objetivos:
 * Montar um portfólio profissional
 * Montar um blog
 
-## Criar um logo
+## Sua Marca
+
+Falar sobre marca é algo muito polêmico, mas quando não temos dinheiro, não podemos perder tempo exigindo a perfeição e
+atrasando nosso projeto de sair do papel, então, descolamos algumas ferramentas para ajudar a construir uma identidade
+temporária para sua marca.
+
+### Criar logo
 
 Quantas vezes você já deixou de iniciar um projeto por não ter uma logo, mesmo que básica. Não perca mais esse tempo
 e vá logo para algo básico.
@@ -46,6 +54,16 @@ e vá logo para algo básico.
 * [Squarespace](https://logo.squarespace.com/) - Simples mas muito eficiente.
 * [Logaster](https://www.logaster.com) - Gerador mais elaborado de logos.
 * [Hipster Logo Denerator](http://www.hipsterlogogenerator.com/) - Gerador de logo Hipster.
+
+### Escolher cores
+
+Escolher cores que funcionam entre si é fundamental para não acabar com a aparencia do seu site.
+
+* [MaterialPallete](https://www.materialpalette.com/) - Escolha duas cores e veja como será aplicada.
+* [BrandColors](https://brandcolors.net/) - Coleção de cores utilizadas por diversas marcas.
+* [Paletton](http://paletton.com/) - Veja a combinação e graduação de uma cor.
+* [Adobe Color Wheel](https://color.adobe.com/pt/create/color-wheel/) - Crie combinação de cores.
+* [Coleure](https://www.coleure.com/) - Veja como uma core interage com texto ou com fundo.
 
 ## Estar online
 
