@@ -8,10 +8,13 @@ Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas fer
 * [Sua Marca](#sua-marca)
   * [Criar Logo](#criar-um-logo)
   * [Escolher cores](#escolher-cores)
+  * [Buscar inspiração](#buscar-inspiração)
+  * [Preciso de imagens](#Preciso-de-imagens)
+  * [Preciso de icones](#Preciso-de-icones)
 * [Estar Online](#estar-oniline)
   * [Hospedagem](#Hospedagem)
   * [E-commerce](#e-commerce)
-  * [Relatorios](#relatorios)
+  * [Relatórios](#relatorios)
 * [E-mail](#e-mail)  
   * [Enviar E-mails](#enviar-e-mails)
   * [Capturar E-mails](#capturar-e-mail)
@@ -110,7 +113,6 @@ ferramenta para estarmos sempre aprimorando.
 * [Google Analytics](https://analytics.google.com) - Monitore as visitas com relatórios avançados e gratuitos.
 * [SmartLook](https://www.getsmartlook.com/) - Captura tudo que seu usuário faz no site, cada movimento de mouse, click e
 dado digitado. Grátis
-* [Inspeclet](https://www.inspectlet.com) - Captura tudo que seu visitante faz. Grátis até 100 visitas ou 1000 pageviews.
 
 ## E-mail
 
