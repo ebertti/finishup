@@ -96,9 +96,10 @@ sem gastar dinheiro
 
 ### Preciso de icones
 
-Icones falam mais que palavras, e precisam de menos explicações que imagens.
+Icones falam mais que palavras, e precisam de menos explicações que imagens. Estes icones são destinados ao conteúdo.
 
 * [FontAwesome](http://fontawesome.io/) - Uma coleção básica, mas muito eficaz.
+* [FlatIcon](http://www.flaticon.com/) - Maior coleção de icones em vários formatos.
 
 ## Estar online
 
