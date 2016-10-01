@@ -5,6 +5,7 @@
 Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas ferramentas grátis
 
 * [Receitas Prontas](#receitas-prontas)
+* [Criar um Logo](#criar-um-logo)
 * [Estar Online](#estar-oniline)
   * [Hospedagem](#Hospedagem)
   * [E-commerce](#e-commerce)
@@ -36,6 +37,15 @@ Estas listas secundárias são focadas em objetivos:
 * Montar um site institucional (Restaurante, hotel, comercio em geral)
 * Montar um portfólio profissional
 * Montar um blog
+
+## Criar um logo
+
+Quantas vezes você já deixou de iniciar um projeto por não ter uma logo, mesmo que básica. Não perca mais esse tempo
+e vá logo para algo básico.
+
+* [Squarespace](https://logo.squarespace.com/) - Simples mas muito eficiente.
+* [Logaster](https://www.logaster.com) - Gerador mais elaborado de logos.
+* [Hipster Logo Denerator](http://www.hipsterlogogenerator.com/) - Gerador de logo Hipster.
 
 ## Estar online
 
