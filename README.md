@@ -6,6 +6,7 @@ Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas fer
 
 * [Receitas Prontas](#receitas-prontas)
 * [Sua Marca](#sua-marca)
+  * [Já tem Nome](#já-tem-nome)
   * [Criar Logo](#criar-um-logo)
   * [Escolher cores](#escolher-cores)
   * [Buscar inspiração](#buscar-inspiração)
@@ -48,6 +49,14 @@ Estas listas secundárias são focadas em objetivos:
 Falar sobre marca é algo muito polêmico, mas quando não temos dinheiro, não podemos perder tempo exigindo a perfeição e
 atrasando nosso projeto de sair do papel, então, descolamos algumas ferramentas para ajudar a construir uma identidade
 temporária para sua marca.
+
+### Já tem Nome?
+
+Hoje em dia é desnecessário comprar vários domínios, e bom comprar um nome único, assim, sempre que buscarem seu nome
+no Google, seu site que será encontrado.
+
+* [Domainr](https://domainr.com/) - Diga um nome, e ele te ajuda a comprar o domínio.
+* [TheNameApp](http://thenameapp.com/) - Veja se esse nome já foi utilizado em várias redes sociais.
 
 ### Criar logo
 
