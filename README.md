@@ -1,4 +1,7 @@
 # Finishup
+
+![Finishup](https://raw.githubusercontent.com/ebertti/finishup/master/img/finishup-logo.png)
+
 Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas ferramentas grátis
 
 * [Receitas Prontas](#receitas-prontas)
@@ -19,6 +22,11 @@ Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas fer
 * [Desenvolvimento](#desenvolvimento)
   * [Controle de Código](#controle-de-codigo)
   * [Distribuição](#distribuição)
+  * [Servidor](#servidor)
+
+Junte-se e tire suas dúvidas em nosso grupo no Telegram e fique atualizado a cada novidade nesta lista.
+ 
+ [![@finishup](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40finishup-blue.svg)](https://telegram.me/finishup)
 
 ## Receitas Prontas
 
@@ -136,4 +144,11 @@ em outros países com preços competitivos mas dar a velocidade para o usuário 
 
 * [CloudFlare](https://www.cloudflare.com/) - Além de CDN, oferece recursos como: proteção a ataques de hackers,
 a possibilidade de cachear partes do site e criptografia (https) gratuita, ganhando mais pontos na busca do Google. 
+
+### Servidor
+
+Envolvendo ou não tecnologia, precisaremos muitas vezes colocar algum código no ar. Existem muitas ferramentas, nesta lista
+listaremos aquelas sem custo e de fácil utilização e manutenção.
+
+* [Heroku](http://heroku.com) - Até uma aplicação gratuitamente.
 
