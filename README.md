@@ -65,6 +65,29 @@ Escolher cores que funcionam entre si é fundamental para não acabar com a apar
 * [Adobe Color Wheel](https://color.adobe.com/pt/create/color-wheel/) - Crie combinação de cores.
 * [Coleure](https://www.coleure.com/) - Veja como uma core interage com texto ou com fundo.
 
+### Buscar inspiração
+
+Muitas vezes não sabemos por onde começar, e precisamos de exemplos para dar conta que não é difícil. Veja coleção de
+sites com material para te inspirar.
+
+* [SiteInspire](https://www.siteinspire.com/)
+* [MoodBoard](http://www.gomoodboard.com/)
+* [LandBook](http://land-book.com/)
+
+### Preciso de imagens
+
+Para montar um belo site, nada melhor do que belas imagens, então, veja essa lista de sites para ganhar mais esse tempo
+sem gastar dinheiro
+
+* [AllTheFreeStock](http://allthefreestock.com/) - Uma coletânea de coletâneas de imagens e aplicações de imagens.
+* [Pexels](https://www.pexels.com/) - Uma coletânea de imagens gratuitas.
+
+### Preciso de icones
+
+Icones falam mais que palavras, e precisam de menos explicações que imagens.
+
+* [FontAwesome](http://fontawesome.io/) - Uma coleção básica, mas muito eficaz.
+
 ## Estar online
 
 ### Hospedagem
