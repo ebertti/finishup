@@ -180,6 +180,7 @@ a não utilização de ferramentas como whatsapp ou facebook para comunicação 
 Existem diversas ferramentas gratuitas e que se integram com várias outras que podem ajudar.
 
 * [Slack](http://slack.com) - Aplicativo de mensagem feito para equipes
+* [Appear.in](http://appear.in/) - Permite realizar video conferência / compartilhamento de tela através do próprio navegador
 
 ### Tarefas
 
@@ -187,6 +188,15 @@ Controlar o que cada membro da equipe esta fazendo é fundamental para manter a 
 conversas e problemas de cada tarefa ajuda a organizar e aprimorar sua ideia.
 
 * [Trello](http://trello.com) - Crie quadros de tarefas e compartilhe com sua equipe. Totalmente customizável e integrado.
+* [MeisterTask](https://www.meistertask.com) - Semelhante ao Trello, permite criar quadros customizados e controlar suas atividades
+
+
+### "Organizando" seus Brainstorming
+
+Organizar o devaneio mental, digo, seu Brainstorm não é uma tarefa fácil. Existem ferramenta de mapeamento mental que permite que você organize, desenvolva e compartilhe suas ideias visualmente de forma fácil e rápida.
+
+* [MindMeister](https://www.mindmeister.com) - Crie mapas mentais de tarefas e compartilhe com sua equipe.
+
 
 ## Desenvolvimento
 
