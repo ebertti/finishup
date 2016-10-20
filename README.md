@@ -224,5 +224,5 @@ a possibilidade de cachear partes do site e criptografia (https) gratuita, ganha
 Envolvendo ou não tecnologia, precisaremos muitas vezes colocar algum código no ar. Existem muitas ferramentas, nesta lista
 listaremos aquelas sem custo e de fácil utilização e manutenção.
 
-* [Heroku](https://heroku.com) - Até uma aplicação gratuitamente.
+* [Heroku](https://www.heroku.com) - Até uma aplicação gratuitamente.
 
