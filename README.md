@@ -2,7 +2,7 @@
 
 ![Finishup](https://raw.githubusercontent.com/ebertti/finishup/master/img/finishup-logo.png)
 
-[![Travis branch](https://img.shields.io/travis/ebertti/finishup/master.svg)](https://travis-ci.org/ebertti/finishup.svg?branch=master)
+[![Travis branch](https://img.shields.io/travis/ebertti/finishup/master.svg)](https://api.travis-ci.org/ebertti/finishup.svg?branch=master)
 
 Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas ferramentas grátis
 
@@ -115,15 +115,15 @@ No mundo de hoje, não podemos pensar em montar um projeto e não ter um site.
 
 Sim, é possível começar a vender online sem pagar nada por isso.
 
-* [Loja Integrada](http://lojaintegrada.com.br) - Grátis até 50 produtos e integrado com os principais meios de pagamento.
+* [Loja Integrada](https://lojaintegrada.com.br) - Grátis até 50 produtos e integrado com os principais meios de pagamento.
 
 ### Relatórios
 
 Precisamos descobrir quais das nossas páginas são mais acessadas ou aquelas que fazem nossos clientes desistirem de nossa
 ferramenta para estarmos sempre aprimorando.
 
-* [Google Analytics](https://analytics.google.com) - Monitore as visitas com relatórios avançados e gratuitos.
-* [SmartLook](https://www.getsmartlook.com/) - Captura tudo que seu usuário faz no site, cada movimento de mouse, click e
+* [Google Analytics](https://analytics.google.com/analytics/web/) - Monitore as visitas com relatórios avançados e gratuitos.
+* [SmartLook](https://www.smartlook.com/) - Captura tudo que seu usuário faz no site, cada movimento de mouse, click e
 dado digitado. Grátis
 
 ## E-mail
@@ -137,8 +137,7 @@ sem custo.
 * [Beefree](https://beefree.io/) - Editor online para e-mails reponsivos.
 * [Mailgun](https://www.mailgun.com/) - Grátis até 10mil e-mails/mês.
 * [Mandrill](https://www.mandrill.com/) - Grátis até 12mil e-mails/mês.
-* [Sendgrid](https://sendgrid.com/) - Grátis até 12mil e-mails/mês.
-* [Sendinblue](https://pt.sendinblue.com/) - Grátis até 9mil e-mails/mês.
+* [Sendgrid](https://sendgrid.com/) - Grátis até 12mil e-mails/mês* [Sendinblue](https://pt.sendinblue.com/) - Grátis até 9mil e-mails/mês.
 * [Mailchimp](http://mailchimp.com/) - Grátis até 12mil e-mails/mês para até 2mil clientes.
 
 ### Capturar E-mails
@@ -153,7 +152,7 @@ A idéia geral é abrir uma janela para o visitante do site para que ele preench
 É difícil saber se o cliente ou fornecedor abriu um e-mail que você enviou, mas com essas ferramentas, ficou fácil. E 
 não é preciso pagar nada.
 
-* [MailTrack](https://mailtrack.io/)
+* [MailTrack](https://mailtrack.io/pt/)
 
 ## Atendimento
 
@@ -171,7 +170,7 @@ caso algum cliente não tenha sido respondido.
 É sempre bom tirar dúvidas dos seus clientes enquanto eles ainda estão vizualizando seu site. Tanto quando fazem uma
 visita, quanto então dentro de alguma area protegida do site. 
 
-* [Tawk.to](https://tawk.to) - Converse em tempo real com seus clientes.
+* [Tawk.to](https://www.tawk.to) - Converse em tempo real com seus clientes.
 
 ## Trabalho em Equipe
 
@@ -181,15 +180,15 @@ visita, quanto então dentro de alguma area protegida do site.
 a não utilização de ferramentas como whatsapp ou facebook para comunicação profissional entre os membros da equipe.
 Existem diversas ferramentas gratuitas e que se integram com várias outras que podem ajudar.
 
-* [Slack](http://slack.com) - Aplicativo de mensagem feito para equipes
-* [Appear.in](http://appear.in/) - Permite realizar video conferência / compartilhamento de tela através do próprio navegador
+* [Slack](https://slack.com) - Aplicativo de mensagem feito para equipes
+* [Appear.in](https://appear.in/) - Permite realizar video conferência / compartilhamento de tela através do próprio navegador
 
 ### Tarefas
 
 Controlar o que cada membro da equipe esta fazendo é fundamental para manter a organização e cumprir prazos. Centralizar
 conversas e problemas de cada tarefa ajuda a organizar e aprimorar sua ideia.
 
-* [Trello](http://trello.com) - Crie quadros de tarefas e compartilhe com sua equipe. Totalmente customizável e integrado.
+* [Trello](https://trello.com) - Crie quadros de tarefas e compartilhe com sua equipe. Totalmente customizável e integrado.
 * [MeisterTask](https://www.meistertask.com) - Semelhante ao Trello, permite criar quadros customizados e controlar suas atividades
 
 
@@ -208,8 +207,8 @@ Se você for contratar um programador, designer ou que gere um código para voc�
 que você tenha sempre este código armazenado. Se uma lista de ferramentas que ajuda a armazenar diretamente na nuvem e 
 ainda controlar todas as modificações ao longo do tempo.
 
-* [Bitbucket](https://bitbucket.com/) - Projetos privados ilimitados mas com limite para até 5 desenvolvedores.
-* [GitLab](https://gitlab.com/) - Projetos privados ilimitados com usuários ilimitados.
+* [Bitbucket](https://bitbucket.org/) - Projetos privados ilimitados mas com limite para até 5 desenvolvedores.
+* [GitLab](https://about.gitlab.com/) - Projetos privados ilimitados com usuários ilimitados.
 
 ### Distribuição
 
@@ -225,5 +224,5 @@ a possibilidade de cachear partes do site e criptografia (https) gratuita, ganha
 Envolvendo ou não tecnologia, precisaremos muitas vezes colocar algum código no ar. Existem muitas ferramentas, nesta lista
 listaremos aquelas sem custo e de fácil utilização e manutenção.
 
-* [Heroku](http://heroku.com) - Até uma aplicação gratuitamente.
+* [Heroku](https://heroku.com) - Até uma aplicação gratuitamente.
 
