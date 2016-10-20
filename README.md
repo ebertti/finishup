@@ -6,10 +6,9 @@
 
 Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas ferramentas grátis
 
-* [Receitas Prontas](#receitas-prontas)
 * [Sua Marca](#sua-marca)
   * [Já tem Nome](#já-tem-nome)
-  * [Criar Logo](#criar-um-logo)
+  * [Criar Logo](#criar-logo)
   * [Escolher cores](#escolher-cores)
   * [Buscar inspiração](#buscar-inspiração)
   * [Preciso de imagens](#Preciso-de-imagens)
@@ -24,7 +23,7 @@ Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas fer
   * [Monitorar E-mails](#monitorar-e-mail)
 * [Atendimento](#atendimento)
   * [E-mail e tickets](#e-mail-e-tickets)
-  * [Chat](#chat)
+  * [Chat Online](#chat-online)
 * [Trabalho em Equipe](#trabalho-em-equipe)
   * [Comunicação](#comunicacao)
   * [Tarefas](#tarefas)
@@ -36,15 +35,6 @@ Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas fer
 Junte-se e tire suas dúvidas em nosso grupo no Telegram e fique atualizado a cada novidade nesta lista.
  
  [![@finishup](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40finishup-blue.svg)](https://telegram.me/finishup)
-
-## Receitas Prontas
-
-Estas listas secundárias são focadas em objetivos:
-
-* Montar um e-commerce
-* Montar um site institucional (Restaurante, hotel, comercio em geral)
-* Montar um portfólio profissional
-* Montar um blog
 
 ## Sua Marca
 
@@ -98,10 +88,10 @@ sem gastar dinheiro
 
 ### Preciso de icones
 
-Icones falam mais que palavras, e precisam de menos explicações que imagens. Estes icones são destinados ao conteúdo.
+Icones falam mais que palavras, e precisam de menos explicações que imagens. Estes ícones são destinados ao conteúdo.
 
 * [FontAwesome](http://fontawesome.io/) - Uma coleção básica, mas muito eficaz.
-* [FlatIcon](http://www.flaticon.com/) - Maior coleção de icones em vários formatos.
+* [FlatIcon](http://www.flaticon.com/) - Maior coleção de ícones em vários formatos.
 
 ## Estar online
 
@@ -134,16 +124,17 @@ Enviar mala-direta, newsletter ou lista de e-mails para seus clientes pode sufoc
 precisamos contratar um serviço terceiro para dar conta destes envios, segue uma lista de ferramentas para ajudar 
 sem custo.
 
-* [Beefree](https://beefree.io/) - Editor online para e-mails reponsivos.
+* [Beefree](https://beefree.io/) - Editor online para e-mails responsivos.
 * [Mailgun](https://www.mailgun.com/) - Grátis até 10mil e-mails/mês.
 * [Mandrill](https://www.mandrill.com/) - Grátis até 12mil e-mails/mês.
-* [Sendgrid](https://sendgrid.com/) - Grátis até 12mil e-mails/mês* [Sendinblue](https://pt.sendinblue.com/) - Grátis até 9mil e-mails/mês.
+* [Sendgrid](https://sendgrid.com/) - Grátis até 12mil e-mails/mês
+* [Sendinblue](https://pt.sendinblue.com/) - Grátis até 9mil e-mails/mês.
 * [Mailchimp](http://mailchimp.com/) - Grátis até 12mil e-mails/mês para até 2mil clientes.
 
 ### Capturar E-mails
 
 Nunca compre listas de mala-direta ou e-mails, você pode coletar a sua e ter uma conversão consequentemente mais alta.
-A idéia geral é abrir uma janela para o visitante do site para que ele preencha seu e-mail.
+A ideia geral é abrir uma janela para o visitante do site para que ele preencha seu e-mail.
 
 * [HelloBar](https://www.hellobar.com/) - Popup para obter mais assinantes por e-mail.
 
@@ -158,17 +149,17 @@ não é preciso pagar nada.
 
 ### E-mail e tickets
 
-Sempre cometemos o erro de criar uma conta de email e acreditar que conseguiremos dar conta de todo o atendimento. Mas
+Sempre cometemos o erro de criar uma conta de e-mail e acreditar que conseguiremos dar conta de todo o atendimento. Mas
 em pouco tempo vemos que não temos um padrão de resposta e nem uma base com todos os atendimentos prestados a um cliente. 
 Estas ferramentas ajudam a organizar o atendimento criando tickets, respostas predeterminadas e, principalmente, avisos
 caso algum cliente não tenha sido respondido.
 
-* [FreshDesk](https://freshdesk.com) - A felicidade do seu cliente começa sem custo. Até tres atendentes grátis.
+* [FreshDesk](https://freshdesk.com) - A felicidade do seu cliente começa sem custo. Até três atendentes grátis.
 
 ### Chat online
 
-É sempre bom tirar dúvidas dos seus clientes enquanto eles ainda estão vizualizando seu site. Tanto quando fazem uma
-visita, quanto então dentro de alguma area protegida do site. 
+É sempre bom tirar dúvidas dos seus clientes enquanto eles ainda estão visualizando seu site. Tanto quando fazem uma
+visita, quanto então dentro de alguma área protegida do site. 
 
 * [Tawk.to](https://www.tawk.to) - Converse em tempo real com seus clientes.
 
@@ -181,11 +172,11 @@ a não utilização de ferramentas como whatsapp ou facebook para comunicação 
 Existem diversas ferramentas gratuitas e que se integram com várias outras que podem ajudar.
 
 * [Slack](https://slack.com) - Aplicativo de mensagem feito para equipes
-* [Appear.in](https://appear.in/) - Permite realizar video conferência / compartilhamento de tela através do próprio navegador
+* [Appear.in](https://appear.in/) - Permite realizar vídeo conferência / compartilhamento de tela através do próprio navegador
 
 ### Tarefas
 
-Controlar o que cada membro da equipe esta fazendo é fundamental para manter a organização e cumprir prazos. Centralizar
+Controlar o que cada membro da equipe está fazendo é fundamental para manter a organização e cumprir prazos. Centralizar
 conversas e problemas de cada tarefa ajuda a organizar e aprimorar sua ideia.
 
 * [Trello](https://trello.com) - Crie quadros de tarefas e compartilhe com sua equipe. Totalmente customizável e integrado.
@@ -194,7 +185,7 @@ conversas e problemas de cada tarefa ajuda a organizar e aprimorar sua ideia.
 
 ### "Organizando" seus Brainstorming
 
-Organizar o devaneio mental, digo, seu Brainstorm não é uma tarefa fácil. Existem ferramenta de mapeamento mental que permite que você organize, desenvolva e compartilhe suas ideias visualmente de forma fácil e rápida.
+Organizar o devaneio mental, digo, seu brainstorm não é uma tarefa fácil. Existem ferramenta de mapeamento mental que permite que você organize, desenvolva e compartilhe suas ideias visualmente de forma fácil e rápida.
 
 * [MindMeister](https://www.mindmeister.com) - Crie mapas mentais de tarefas e compartilhe com sua equipe.
 
