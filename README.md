@@ -2,6 +2,8 @@
 
 ![Finishup](https://raw.githubusercontent.com/ebertti/finishup/master/img/finishup-logo.png)
 
+[![Travis branch](https://img.shields.io/travis/ebertti/finishup/master.svg)](https://travis-ci.org/ebertti/finishup.svg?branch=master)
+
 Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas ferramentas grátis
 
 * [Receitas Prontas](#receitas-prontas)
