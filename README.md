@@ -13,6 +13,7 @@ Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas fer
   * [Buscar inspiração](#buscar-inspiração)
   * [Preciso de imagens](#Preciso-de-imagens)
   * [Preciso de icones](#Preciso-de-icones)
+  * [Preciso de templates](#preciso-de-templates)
 * [Estar Online](#estar-oniline)
   * [Hospedagem](#Hospedagem)
   * [E-commerce](#e-commerce)
@@ -92,6 +93,14 @@ Icones falam mais que palavras, e precisam de menos explicações que imagens. E
 
 * [FontAwesome](http://fontawesome.io/) - Uma coleção básica, mas muito eficaz.
 * [FlatIcon](http://www.flaticon.com/) - Maior coleção de ícones em vários formatos.
+
+
+### Preciso de templates
+
+Informação organizada e uma boa aparência são fatores muito importantes.
+Aqui conseguimos encontrar incríveis templates prontos e gratuitos para os mais diversos tipos de páginas.
+
+* [BlackTie](http://blacktie.co/) - Templates variados para landing pages, blog, personal, e-commerce entre outros.
 
 ## Estar online
 
