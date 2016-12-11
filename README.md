@@ -93,7 +93,7 @@ Icones falam mais que palavras, e precisam de menos explicações que imagens. E
 
 * [FontAwesome](http://fontawesome.io/) - Uma coleção básica, mas muito eficaz.
 * [FlatIcon](http://www.flaticon.com/) - Maior coleção de ícones em vários formatos.
-
+* [Iconfinder](https://www.iconfinder.com/) - Coleção de icones em vários formatos e com uma boa busca para free.
 
 ### Preciso de templates
 
